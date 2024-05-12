@@ -11,6 +11,6 @@ Below, you will find repos that contain notes and projects I use to keep my skil
 
 ### My Notes
 
-[Learning Terraform]('https://github.com/mikeovu/Learning-Terraform.git')
+[Learning Terraform]('https://github.com/mikeovu/Learning-Terraform')
 
-[Networking Concepts]('https://github.com/mikeovu/Networking-Concepts.git')
+[Networking Concepts]('https://github.com/mikeovu/Networking-Concepts')
