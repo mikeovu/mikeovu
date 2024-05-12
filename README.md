@@ -9,8 +9,6 @@ Hello, I'm a Solutions Engineer with a background in network engineering.
 
 Below, you will find repos that contain notes and projects I use to keep my skills relevant.
 
-## My Notes
+### My Notes
 
-[Learning Terraform]('https://github.com/mikeovu/learning-terraform')
-
-[Networking Concepts]('https://github.com/mikeovu/Networking-Concepts')
+[Learning Terraform]('www.youtube.com')
